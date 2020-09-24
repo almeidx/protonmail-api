@@ -4,6 +4,7 @@
   "description": "Node.js API for ProtonMail",
   "repository": "github:almeidx/protonmail-api",
   "homepage": "https://github.com/almeidx/protonmail-api#readme",
+  "types": "typings/index.d.ts",
   "bugs": {
     "url": "https://github.com/almeidx/protonmail-api/issues"
   },
