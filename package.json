@@ -1,13 +1,13 @@
 {
-  "name": "protonmail-api",
-  "version": "2.1.0",
+  "name": "@almeidx/protonmail-api",
+  "version": "2.2.0",
   "description": "Node.js API for ProtonMail",
-  "repository": "github:justinkalland/protonmail-api",
-  "homepage": "https://github.com/justinkalland/protonmail-api#readme",
+  "repository": "github:almeidx/protonmail-api",
+  "homepage": "https://github.com/almeidx/protonmail-api#readme",
   "bugs": {
-    "url": "https://github.com/justinkalland/protonmail-api/issues"
+    "url": "https://github.com/almeidx/protonmail-api/issues"
   },
-  "author": "Justin Kalland <justin@kalland.com>",
+  "author": "almeidx <almeidx@pm.me> (https://almeidx.me)",
   "license": "MIT",
   "scripts": {
     "test": "mocha tests --recursive --timeout 30000",

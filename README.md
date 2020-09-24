@@ -1,5 +1,7 @@
-# protonmail-api
+# @almeidx/protonmail-api
 Unofficial API for interacting with ProtonMail.
+
+Clone of `protonmail-api` but using the --no-sandbox option in the puppeteer client.
 
 Allows interaction with ProtonMail through a simple Node.js API. Leverages the official [WebClient](https://github.com/ProtonMail/WebClient), keeping with the spirit of security and privacy. Currently supports sending email, managing email/conversations, and managing labels and folders. See the [documentation](https://justinkalland.github.io/protonmail-api/) for full functionality.
 
