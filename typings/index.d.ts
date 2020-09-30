@@ -16,7 +16,7 @@ declare module '@almeidx/protonmail-api' {
     username: string;
   }
 
-  export default interface ProtonMail {
+  export default {
     connect(opts: ConnectOptions): Promise<ProtonClient>;
   }
 }
